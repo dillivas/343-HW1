@@ -1,1 +1,1 @@
-# 343-HW1
+Hello, this is Sierra, and a few of the commands that I will commonly use are commit, stage, merge, branch, add, push, and pull. Push and pull pushes and pulls the information from the git repository to or from the local computer. Commit, stage, and add are the steps needed to update the remote repository. Branch allows you to make changes sperate from the main branch and merge allows you to combine the changes you want with the main branch.
